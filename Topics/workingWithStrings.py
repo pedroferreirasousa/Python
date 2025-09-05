@@ -37,10 +37,10 @@ print(frase.replace("Está", "Estou")) #usando funçao replace para substituir a
 
 
 
-# TODAS FUNCÇOES internas de Manipulação de Strings (built-in) 
-#Funções que ja vêm com o python, sempre disponíveis para uso
+# TODAS Métodos internas de Manipulação de Strings (built-in) 
+#Métodos que ja vêm com o python, sempre disponíveis para uso
 
-# 1. Funções de Manipulação de Strings
+# 1. Métodos de Manipulação de Strings
 frase2 = "  olá, Python!"
 print(f"Original: '{frase2}'")
 
